@@ -1,8 +1,12 @@
 {
-    "name": "Organization.Package",
+    "name": "rmgomez.packagetest2.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "rmgomez.packagetest2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
